@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning *Linux*
 - 💞️ I’m looking to collaborate on managing Linux servers
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/robertdavischaniago">
   <img height=200 align="center" src="https://github-readme-stats-one-pi-30.vercel.app/api?username=robertdavischaniago&rank_icon=percentile&include_all_commits=true" />
 </a>
