@@ -15,8 +15,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: ${{ secrets.API_BASE_URL }}
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
